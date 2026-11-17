@@ -1,0 +1,23 @@
+# Brand Collection — robots.txt
+User-agent: *
+Allow: /
+Disallow: /admin
+Disallow: /admin.html
+Disallow: /cart.html
+Disallow: /checkout.html
+Disallow: /account.html
+Disallow: /data/
+
+# AI search engines are welcome (helps answers in ChatGPT, Perplexity, Gemini, Claude)
+User-agent: GPTBot
+Allow: /
+User-agent: OAI-SearchBot
+Allow: /
+User-agent: PerplexityBot
+Allow: /
+User-agent: ClaudeBot
+Allow: /
+User-agent: Google-Extended
+Allow: /
+
+Sitemap: https://bright-taiyaki-758f38.netlify.app/sitemap.xml

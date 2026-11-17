@@ -1,0 +1,99 @@
+{
+  "version": 2,
+  "cleanUrls": true,
+  "trailingSlash": false,
+  "routes": [
+    {
+      "src": "/admin",
+      "dest": "/admin.html"
+    },
+    {
+      "src": "/shop",
+      "dest": "/shop.html"
+    },
+    {
+      "src": "/men",
+      "dest": "/men.html"
+    },
+    {
+      "src": "/women",
+      "dest": "/women.html"
+    },
+    {
+      "src": "/kids",
+      "dest": "/kids.html"
+    },
+    {
+      "src": "/collections",
+      "dest": "/collections.html"
+    },
+    {
+      "src": "/sale",
+      "dest": "/sale.html"
+    },
+    {
+      "src": "/cart",
+      "dest": "/cart.html"
+    },
+    {
+      "src": "/checkout",
+      "dest": "/checkout.html"
+    },
+    {
+      "src": "/track-order",
+      "dest": "/track-order.html"
+    },
+    {
+      "src": "/product",
+      "dest": "/product.html"
+    },
+    {
+      "src": "/about",
+      "dest": "/about.html"
+    },
+    {
+      "src": "/contact",
+      "dest": "/contact.html"
+    },
+    {
+      "src": "/faq",
+      "dest": "/faq.html"
+    },
+    {
+      "src": "/size-guide",
+      "dest": "/size-guide.html"
+    },
+    {
+      "src": "/blog",
+      "dest": "/blog.html"
+    },
+    {
+      "src": "/privacy-policy",
+      "dest": "/privacy-policy.html"
+    },
+    {
+      "src": "/shipping-policy",
+      "dest": "/shipping-policy.html"
+    },
+    {
+      "src": "/returns-policy",
+      "dest": "/returns-policy.html"
+    },
+    {
+      "src": "/terms",
+      "dest": "/terms.html"
+    },
+    {
+      "src": "/account",
+      "dest": "/account.html"
+    },
+    {
+      "handle": "filesystem"
+    },
+    {
+      "src": "/(.*)",
+      "status": 404,
+      "dest": "/404.html"
+    }
+  ]
+}

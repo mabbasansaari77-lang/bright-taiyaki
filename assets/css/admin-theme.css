@@ -1,0 +1,14 @@
+/* Admin panel: same dark neon look as the shop (colours only, no layout changes) */
+body { background: #05070B !important; color: var(--text-primary); }
+/* Banner preview: dark fade like the live home page hero */
+#admin-banner-preview-box > div[style*="235, 247, 238"],
+#admin-banner-preview-box > div[style*="EBF7EE"] {
+  background: linear-gradient(90deg, rgba(5,7,11,0.95) 0%, rgba(5,7,11,0.75) 45%, rgba(5,7,11,0.15) 100%) !important;
+}
+#prev-banner-badge, #prev-banner-btn2 { background: rgba(255,255,255,0.06) !important; }
+#prev-banner-badge { color: var(--accent-lime) !important; }
+/* Light inline surfaces left in admin markup */
+[style*="background:#fff"], [style*="background: #fff"], [style*="background:white"] { background: var(--bg-surface) !important; color: var(--text-primary); }
+table th { color: var(--text-secondary); }
+table td, table th { border-color: var(--border-subtle) !important; }
+select option { background: #0B0F16; color: #E8EDF5; }

@@ -1,0 +1,55 @@
+# Brand Collection
+
+> Brand Collection is an online clothing store in Pakistan selling men's, women's and kids' streetwear, techwear, hoodies, jackets and pret. Prices are in Pakistani Rupees (PKR). Cash on Delivery is available nationwide.
+
+## Key facts
+- Delivery: all over Pakistan by TCS, Call Courier and Trax. Lahore 1–2 days, Karachi/Islamabad/Rawalpindi 2–3 days, other cities 3–5 days.
+- Shipping fee: Rs 250; free on orders over Rs 5,000. Cash on Delivery fee: Rs 150.
+- Payment: Cash on Delivery, bank transfer, JazzCash, Easypaisa.
+- Returns: 7-day easy exchange. See the returns policy.
+- Customer support (WhatsApp): +966543805017. Email: mabbasansaari77@gmail.com.
+
+## What people search for (and what we sell)
+- Online clothing store in Pakistan with Cash on Delivery
+- Hoodies for men in Pakistan, oversized hoodies, kids hoodies
+- Cargo pants and baggy cargo pants in Pakistan
+- Winter jackets in Pakistan
+- Graphic tees and oversized tees in Pakistan
+- Women's pret, kurtis and ladies online clothing in Pakistan
+- Kids clothes online in Pakistan
+- Streetwear in Pakistan (Karachi, Lahore, Islamabad and nationwide delivery)
+
+## Main pages
+- [Shop all](https://bright-taiyaki-758f38.netlify.app/shop.html)
+- [Men](https://bright-taiyaki-758f38.netlify.app/men.html)
+- [Women](https://bright-taiyaki-758f38.netlify.app/women.html)
+- [Kids](https://bright-taiyaki-758f38.netlify.app/kids.html)
+- [Sale](https://bright-taiyaki-758f38.netlify.app/sale.html)
+- [Size guide](https://bright-taiyaki-758f38.netlify.app/size-guide.html)
+- [FAQ](https://bright-taiyaki-758f38.netlify.app/faq.html)
+- [Shipping policy](https://bright-taiyaki-758f38.netlify.app/shipping-policy.html)
+- [Returns & exchange](https://bright-taiyaki-758f38.netlify.app/returns-policy.html)
+- [Contact](https://bright-taiyaki-758f38.netlify.app/contact.html)
+- [Track an order](https://bright-taiyaki-758f38.netlify.app/track-order.html)
+
+## Men products
+- [Cyber-Matrix Modular Trench Jacket](https://bright-taiyaki-758f38.netlify.app/products/cyber-matrix-modular-jacket.html): Rs 19,500. 3-Layer Weatherproof Tech-Ripstop (10,000mm hydrostatic head), YKK Aquaguard Zips
+- [Tailored Techwear Cargo Trouser & Blazer Set](https://bright-taiyaki-758f38.netlify.app/products/tailored-techwear-cargo-blazer-mens.html): Rs 28,000. Tropical Stretch Wool infused with technical anti-wrinkle micro-fibers
+- [Heavyweight Cyber Luxe Boxy Hoodie](https://bright-taiyaki-758f38.netlify.app/products/heavyweight-cyber-luxe-hoodie.html): Rs 11,500. 500 GSM Heavy Organic French Terry Cotton, brushed interior fleece
+- [Boxy 280GSM Heavyweight Micro-Brand Tee](https://bright-taiyaki-758f38.netlify.app/products/boxy-heavyweight-micro-brand-tee.html): Rs 3,900. 100% Combed Compact Pakistani Cotton (280 GSM Single Jersey)
+- [Cyber Kimono Streetwear Haori Wrap](https://bright-taiyaki-758f38.netlify.app/products/cyber-kimono-streetwear-haori-wrap.html): Rs 16,500. Linen-Cotton Cyber Blend with Water-Repellent Treatment
+- [Tactical Articulated Utility Cargo Pants](https://bright-taiyaki-758f38.netlify.app/products/tactical-articulated-cargo-pants.html): Rs 8,900. High-Density Stretch Cotton Twill with Reinforced Knee Darting
+- [Futuristic Cyber Kurtis Streetwear Tunic](https://bright-taiyaki-758f38.netlify.app/products/futuristic-cyber-kurtis-tunic.html): Rs 7,500. Breathable Raw Cotton & Linen Blend with Neon Contrast Stitching
+
+## Women products
+- [Architectural Asymmetric Fusion Pret Dress](https://bright-taiyaki-758f38.netlify.app/products/architectural-asymmetric-pret-dress.html): Rs 15,500. Premium Raw Silk & Poly-Viscose Structured Crepe blend
+- [High-Waist Cyber Pleated Tech Skirt](https://bright-taiyaki-758f38.netlify.app/products/high-waist-cyber-pleated-tech-skirt.html): Rs 7,900. Poly-Spandex High-Memory Permanent Pleat Tech Fabric
+- [Two-Tone Monochromatic Draped Kaftan Pret](https://bright-taiyaki-758f38.netlify.app/products/monochromatic-draped-kaftan-pret.html): Rs 17,500. Pure Chiffon Crepe & Raw Modal Silk Blend
+- [Minimalist Asymmetric Structured Blazer Vest](https://bright-taiyaki-758f38.netlify.app/products/minimalist-asymmetric-blazer-vest.html): Rs 13,900. Italian Suiting Wool-Viscose with Satin Acetate Interior
+- [Cropped 280GSM Boxy Cyber Streetwear Tee](https://bright-taiyaki-758f38.netlify.app/products/cropped-boxy-cyber-tee-womens.html): Rs 3,500. 100% Combed Pakistani Cotton (280 GSM Heavy Jersey)
+
+## Kids products
+- [Junior Cyber Utility Storm Combat Suit](https://bright-taiyaki-758f38.netlify.app/products/junior-cyber-utility-combat-suit.html): Rs 9,900. Durable Micro-Canvas Twill with Soft Hypoallergenic Cotton Lining
+- [Junior Mini Cyber Luxe Heavyweight Hoodie](https://bright-taiyaki-758f38.netlify.app/products/junior-mini-cyber-luxe-hoodie.html): Rs 6,500. 100% Ultra-Soft Brushed Cotton Fleece (400 GSM)
+- [Junior Reflex Techwear Cargo Joggers](https://bright-taiyaki-758f38.netlify.app/products/junior-reflex-techwear-cargo-joggers.html): Rs 4,900. Ripstop Cotton Twill with Double Stitching
+- [Junior Boxy Minimalist Graphic Tee](https://bright-taiyaki-758f38.netlify.app/products/junior-boxy-minimalist-graphic-tee.html): Rs 2,800. 100% Organic Pakistani Cotton (240 GSM Soft Jersey)
